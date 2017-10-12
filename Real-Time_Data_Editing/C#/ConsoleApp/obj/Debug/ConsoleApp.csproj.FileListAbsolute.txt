@@ -1,0 +1,6 @@
+E:\Work\dotNET\Application sample, Real-Time Data Editing\C#\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Work\dotNET\Application sample, Real-Time Data Editing\C#\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Work\dotNET\Application sample, Real-Time Data Editing\C#\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+E:\Work\dotNET\Application sample, Real-Time Data Editing\C#\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Work\dotNET\Application sample, Real-Time Data Editing\C#\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Work\dotNET\Application sample, Real-Time Data Editing\C#\ConsoleApp\obj\Debug\ConsoleApp.pdb

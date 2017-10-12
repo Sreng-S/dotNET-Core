@@ -1,0 +1,10 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+#editor
+
+/Real-Time_Data_Editing/C#/Rtde.AspNetCore2.0.NetCore2.0/node_modules/
+/Real-Time_Data_Editing/C#/Rtde.AspNetCore2.0.Net4.6.1/node_modules/
+/Real-Time_Data_Editing/C#/Rtde.AspNetCore1.1.Net4.6.1/node_modules/
+/Real-Time_Data_Editing/description/
+/Real-Time_Data_Editing/description.html
+/Real-Time_Data_Editing/license.rtf
